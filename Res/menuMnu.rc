@@ -1,0 +1,6 @@
+#define IDR_MENU 10000
+#define IDM_ 10001
+IDR_MENU MENUEX
+BEGIN
+  MENUITEM "menu",IDM_
+END

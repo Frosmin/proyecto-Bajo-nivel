@@ -1,0 +1,3 @@
+#include "Res/tablaDlg.rc"
+#include "Res/menuMnu.rc"
+#include <Res\ComboBoxDlg.rc>
